@@ -24,12 +24,12 @@
 ### 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/Pachyhead/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pachyhead&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/Pachyhead/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pachyhead&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
   </a>
 </p>
 
