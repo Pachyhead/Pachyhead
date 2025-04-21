@@ -43,11 +43,10 @@
 - cejongchanl@gmail.com
 
 ---
-<div style="margin-left: 100px;">
-  <img src="Designed_by_Freepik.jpg" width="500" height="250"><br>
 
-  [Designed_by_Freepik](https://www.freepik.com/free-vector/fossil-dinosaur-concept-illustration_71602324.htm#fromView=search&page=1&position=13&uuid=f9ee07d0-5e64-48aa-a632-01dce10f65c5&query=Meteor+Dinosaurs)
-</div>
+<img src="Designed_by_Freepik.jpg" width="500" height="250"><br>
+
+[Designed_by_Freepik](https://www.freepik.com/free-vector/fossil-dinosaur-concept-illustration_71602324.htm#fromView=search&page=1&position=13&uuid=f9ee07d0-5e64-48aa-a632-01dce10f65c5&query=Meteor+Dinosaurs)
 
 
 
