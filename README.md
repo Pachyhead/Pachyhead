@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=Krr..🦖)
 
-### 😀👋Hi! I`m Jongchan. Lee
-- im
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi! I`m Jongchan. Lee
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> My major is Computer Engineering.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> I'm recently interested in Natural Language Processing and video object segmentation
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -26,11 +29,9 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <a href="https://github.com/Pachyhead/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pachyhead&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-</p>
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pachyhead&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+---
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />  How to reach me
 - cejongchanl@gmail.com
