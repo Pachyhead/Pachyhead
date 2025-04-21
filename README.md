@@ -44,4 +44,4 @@
 
 ---
 
-![나의 이미지](design_by_freepik.png)
+![나의 이미지](Designed_by_Freepik.jpg)
