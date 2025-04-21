@@ -41,3 +41,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />  How to reach me
 - cejongchanl@gmail.com
+
+---
+
+![나의 이미지](design_by_freepik.png)
