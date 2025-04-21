@@ -31,6 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Pachyhead&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
-
-### 🤜🤛 How to reach me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />  How to reach me
 - cejongchanl@gmail.com
