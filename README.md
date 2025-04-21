@@ -44,4 +44,6 @@
 
 ---
 
-![나의 이미지](Designed_by_Freepik.jpg)
+<img src="Designed_by_Freepik.jpg" width="500" height="500">
+
+[Designed_by_Freepik](https://www.freepik.com/free-vector/fossil-dinosaur-concept-illustration_71602324.htm#fromView=search&page=1&position=13&uuid=f9ee07d0-5e64-48aa-a632-01dce10f65c5&query=Meteor+Dinosaurs)
