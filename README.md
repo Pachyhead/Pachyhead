@@ -42,11 +42,5 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />  How to reach me
 - cejongchanl@gmail.com
 
----
-
-<img src="Designed_by_Freepik.jpg" width="500" height="250"><br>
-
-[Designed_by_Freepik](https://www.freepik.com/free-vector/fossil-dinosaur-concept-illustration_71602324.htm#fromView=search&page=1&position=13&uuid=f9ee07d0-5e64-48aa-a632-01dce10f65c5&query=Meteor+Dinosaurs)
-
 
 
